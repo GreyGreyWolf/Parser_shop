@@ -1,0 +1,12 @@
+.DS_Store
+.gities
+*.pyc
+*__pycache__/
+*.DS_Store
+*.egg-info
+.venv/
+dist/
+.idea/
+*.log
+/.envrc
+/.env
